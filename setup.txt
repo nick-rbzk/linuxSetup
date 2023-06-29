@@ -1,0 +1,25 @@
+✅chrome
+✅themes
+✅zsh
+✅powerline10K
+✅vscode
+✅touchegg
+✅setup  virt desktop
+✅docker
+✅vim
+✅nmap
+✅htop
+✅python
+✅ufw
+✅nordvpn
+✅thunderbird
+✅bring in the Music
+✅Firefox-signin
+github repo onlydata
+virtualbox
+    - ubuntu
+    - adnroid (optional)
+kvm quemu
+    - windows 10
+samba
+
