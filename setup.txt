@@ -15,7 +15,8 @@
 ✅thunderbird
 ✅bring in the Music
 ✅Firefox-signin
-✅github repo onlydata
+✅github repos 
+✅github ssh keys
 ✅virtualbox
     - ubuntu
     - adnroid (optional)
