@@ -15,8 +15,8 @@
 ✅thunderbird
 ✅bring in the Music
 ✅Firefox-signin
-github repo onlydata
-virtualbox
+✅github repo onlydata
+✅virtualbox
     - ubuntu
     - adnroid (optional)
 kvm quemu
